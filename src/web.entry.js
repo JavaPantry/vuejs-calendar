@@ -1,4 +1,4 @@
-import Vue from 'vue'
+import Vue from 'vue';
 import './style.scss';
 
 import moment from 'moment-timezone';
